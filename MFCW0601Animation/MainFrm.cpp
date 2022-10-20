@@ -1,4 +1,4 @@
-﻿
+﻿// 이 파일은 이제 제껍니다. :)
 // MainFrm.cpp: CMainFrame 클래스의 구현
 //
 
